@@ -1,0 +1,2 @@
+nilearn==0.8.0
+matplotlib==3.5.0
