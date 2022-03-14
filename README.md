@@ -1,4 +1,4 @@
-# dypac_segmentation
+# dypac_visualization
 
 This utility create maps images for the dypac atlase [link].
 
