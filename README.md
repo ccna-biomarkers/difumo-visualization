@@ -1,8 +1,8 @@
 # dypac_visualization
 
-This utility create maps images for the dypac atlase [link].
+This utility create maps images for the dypac atlas [link].
 
-The output layout and naming convention follows [templateflow](https://github.com/templateflow/tpl-MNI152NLin2009cAsym).
+The input layout in `data/processed` should follow [templateflow](https://github.com/templateflow/tpl-MNI152NLin2009cAsym) naming convention.
 
 # Usage
 
