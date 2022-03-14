@@ -1,6 +1,6 @@
-# difumo_segmentation
+# dypac_segmentation
 
-This utility download and segment DiFuMo atlas, so each component is exactly one independent region.
+This utility create maps images for the dypac atlase [link].
 
 The output layout and naming convention follows [templateflow](https://github.com/templateflow/tpl-MNI152NLin2009cAsym).
 
@@ -23,6 +23,4 @@ optional arguments:
   -r RES, --res RES     The resolution in mm of the atlas to fetch. Valid
                         options available are {2, 3}, -1 for all (default: -1)
   --version             show program's version number and exit
-
-    Documentation at https://github.com/SIMEXP/difumo_segmentation
 ```
